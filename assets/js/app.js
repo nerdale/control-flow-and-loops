@@ -1,4 +1,4 @@
-window.onload = function () {
+window.onload = () => {
   /* Botones */
   const btn = document.getElementById('btn');
   const btnIf = document.getElementById('btn-if');
